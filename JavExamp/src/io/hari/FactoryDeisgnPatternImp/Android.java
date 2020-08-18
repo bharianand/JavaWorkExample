@@ -7,5 +7,10 @@ public class Android implements OS{
 		// TODO Auto-generated method stub
 		System.out.println("Most Powerful OS ..");
 	}
+	
+	public void spec1() {
+		// TODO Auto-generated method stub
+		System.out.println("Most Powerful OS ..");
+	}
 
 }
