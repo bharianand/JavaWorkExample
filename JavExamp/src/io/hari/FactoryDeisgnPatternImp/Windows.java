@@ -7,5 +7,10 @@ public class Windows implements OS{
 		// TODO Auto-generated method stub
 		System.out.println("About to die");
 	}
+	
+	public void spec1() {
+		// TODO Auto-generated method stub
+		System.out.println("About to die");
+	}
 
 }

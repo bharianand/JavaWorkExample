@@ -6,8 +6,10 @@ public class OperatingSystemFactory {
 			return new Android();
 		else if(str.equalsIgnoreCase("ios"))
 			return new Ios();
-		else
+		else{
+			System.out.println("else block");
 			return new Windows();
+		}
 	}
 	
 }
