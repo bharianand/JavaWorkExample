@@ -12,5 +12,15 @@ public class Windows implements OS{
 		// TODO Auto-generated method stub
 		System.out.println("About to die");
 	}
+	
+	public void spec2() {
+		// TODO Auto-generated method stub
+		System.out.println("About to die");
+	}
+	
+	public void spec3() {
+		// TODO Auto-generated method stub
+		System.out.println("About to die");
+	}
 
 }
